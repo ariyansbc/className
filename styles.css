@@ -1,0 +1,17 @@
+button {
+    cursor: pointer;
+}
+.nameClass {
+    background-color: seashell;
+    text-align: center;
+    border: 2px solid sandybrown;
+    color: #000;
+}
+.boxClass {
+    background-color: seashell;
+    width: 300px;
+    height: 300px;
+    padding: 1.5em;
+    color: #000;
+
+}
